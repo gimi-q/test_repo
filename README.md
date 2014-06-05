@@ -1,2 +1,2 @@
-# test_repo
-test_push
+# TEST_REPO
+TEST_PUSH
