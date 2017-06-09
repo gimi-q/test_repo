@@ -102,7 +102,7 @@
   // Incoming parameter "teams" is an array of objects
 function save() {
     var xhr;
-    var data = JSON.stringify({markup: document.documentElement.innerHTML});
+    var data = JSON.stringify({markup: '<h1>client read</h1>'});
 
     xhr = $.ajax({
         type: "POST",
