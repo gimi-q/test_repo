@@ -1,1 +1,1 @@
-hello
+<h2 class="title">Hello world</h2>
